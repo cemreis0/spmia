@@ -1,13 +1,10 @@
+server:
+  port: 8888
 spring:
-  application:
-    name: confsvr
-  profiles:
-    active: native
   cloud:
     config:
       server:
-        native:
-          search-locations: C:\Users\cemmr\Code\Active\spmia\ch-3\confsvr\src\main\resources\config
-
-server:
-  port: 8888
+        encrypt.enabled: false
+        git:
+          uri: https://github.com/cemreis0/spmia-config-repo/
+          searchPaths: licensingservice

@@ -1,10 +1,10 @@
-package com.thoughtmechanix.licenseservice;
+package com.thoughtmechanix.licensingservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class LicenseServiceApplicationTests {
+class LicensingserviceApplicationTests {
 
 	@Test
 	void contextLoads() {
