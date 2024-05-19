@@ -4,7 +4,8 @@ spring:
   cloud:
     config:
       server:
-        encrypt.enabled: false
+        encrypt:
+          enabled: false
         git:
           uri: https://github.com/cemreis0/spmia-config-repo/
           searchPaths: licensingservice
