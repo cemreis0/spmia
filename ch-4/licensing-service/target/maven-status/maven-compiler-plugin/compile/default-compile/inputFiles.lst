@@ -1,0 +1,12 @@
+C:\Users\cemmr\Code\Active\spmia\ch-4\licensing-service\src\main\java\com\thoughtmechanix\licenses\controllers\LicenseServiceController.java
+C:\Users\cemmr\Code\Active\spmia\ch-4\licensing-service\src\main\java\com\thoughtmechanix\licenses\model\Organization.java
+C:\Users\cemmr\Code\Active\spmia\ch-4\licensing-service\src\main\java\com\thoughtmechanix\licenses\clients\OrganizationRestTemplateClient.java
+C:\Users\cemmr\Code\Active\spmia\ch-4\licensing-service\src\main\java\com\thoughtmechanix\licenses\services\DiscoveryService.java
+C:\Users\cemmr\Code\Active\spmia\ch-4\licensing-service\src\main\java\com\thoughtmechanix\licenses\model\License.java
+C:\Users\cemmr\Code\Active\spmia\ch-4\licensing-service\src\main\java\com\thoughtmechanix\licenses\controllers\ToolsController.java
+C:\Users\cemmr\Code\Active\spmia\ch-4\licensing-service\src\main\java\com\thoughtmechanix\licenses\repository\LicenseRepository.java
+C:\Users\cemmr\Code\Active\spmia\ch-4\licensing-service\src\main\java\com\thoughtmechanix\licenses\Application.java
+C:\Users\cemmr\Code\Active\spmia\ch-4\licensing-service\src\main\java\com\thoughtmechanix\licenses\clients\OrganizationFeignClient.java
+C:\Users\cemmr\Code\Active\spmia\ch-4\licensing-service\src\main\java\com\thoughtmechanix\licenses\services\LicenseService.java
+C:\Users\cemmr\Code\Active\spmia\ch-4\licensing-service\src\main\java\com\thoughtmechanix\licenses\clients\OrganizationDiscoveryClient.java
+C:\Users\cemmr\Code\Active\spmia\ch-4\licensing-service\src\main\java\com\thoughtmechanix\licenses\config\ServiceConfig.java

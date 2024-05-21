@@ -8,14 +8,18 @@
         <outputRelativeToContentRoot value="true" />
         <module name="licensing-service" />
         <module name="organization-service" />
-        <module name="configurationserver" />
+        <module name="confsvr" />
         <module name="eurekasvr" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="configurationserver" target="21" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="configurationserver" options="-parameters" />
+      <module name="confsvr" options="-parameters" />
       <module name="eurekasvr" options="-parameters" />
       <module name="licensing-service" options="-parameters" />
       <module name="organization-service" options="-parameters" />
